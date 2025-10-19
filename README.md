@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#6C63FF;">Jahin Tasnia</span></h1>
 
-<p align="center">
+<p>
   💡 <b>MLOps Engineer • Competitive Programmar </b><br>
   📍 Dhaka, Bangladesh &nbsp;|&nbsp; 
 </p>
@@ -28,7 +28,7 @@ My goal is to create **explainable and trustworthy AI systems** that make a real
 
 🎓 **B.Sc. in Computer Science & Engineering** — *Ongoing*  
 🏫 *[Daffodil International University]*  
-📅 *January 2022 – December 2025 
+📅 January 2022 – December 2025 
 
 ---
 
