@@ -9,10 +9,10 @@
 
 ## 🧠 About Me
 
-I’m an enthusiastic MLOps Engineer dedicated to designing agentic systems, machine learning workflows, and intelligent applications that connect cutting-edge research with practical implementation.
-My current focus areas include LangGraph, Retrieval-Augmented Generation (RAG) architectures, and LLM-driven automation, emphasizing robustness, scalability, and interpretability across every layer of deployment.
-Beyond AI systems, I have a solid foundation in **competitive programming** and **full-stack development**, which allows me to design solutions that are both **algorithmically efficient** and **production-ready**. I enjoy integrating **backend engineering**, **cloud orchestration**, and **model deployment pipelines** into cohesive, automated MLOps workflows.
-With a strong academic background and hands-on experience across diverse domains, I aim to push the boundaries of **explainable**, **trustworthy**, and **scalable** AI — one system at a time.
+I’m an enthusiastic **MLOps Engineer** who loves building **agentic systems**, **ML pipelines**, and **smart applications** that turn research into real solutions.  
+I work with tools like **LangGraph**, **RAG**, and **LLMs**, focusing on making AI systems reliable, scalable, and easy to understand.  
+I also enjoy **competitive programming** and **full-stack development**, which help me design efficient and production-ready solutions.  
+My goal is to create **explainable and trustworthy AI systems** that make a real impact.
 
 ---
 
