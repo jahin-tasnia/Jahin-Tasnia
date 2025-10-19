@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#6C63FF;">Jahin Tasnia</span></h1>
 
 <p align="center">
-  💡 <b>MLOps Engineer • Competitive Programmar • Agentic Systems Enthusiast</b><br>
-  📍 Dhaka, Bangladesh &nbsp;|&nbsp; 🌐 <a href="#">Personal Website</a> <!-- Replace # with your website link -->
+  💡 <b>MLOps Engineer • Competitive Programmar </b><br>
+  📍 Dhaka, Bangladesh &nbsp;|&nbsp; 
 </p>
 
 ---
@@ -24,7 +24,7 @@ I aim to push the boundaries of **explainable**, **trustworthy**, and **scalable
 
 - **MLOps Engineer**
   ▪️ Designing multi-agent knowledge workflows using **LangGraph**  
-  ▪️ Building reproducible RAG pipelines for enterprise and research applications  
+  ▪️ Building reproducible **RAG pipelines** for enterprise and research applications  
 
 ---
 
@@ -32,15 +32,18 @@ I aim to push the boundaries of **explainable**, **trustworthy**, and **scalable
 
 🎓 **B.Sc. in Computer Science & Engineering** — *Ongoing*  
 🏫 *[Daffodil International University]*  
+📅 *January 2022 – December 2025 
 
 ---
 
 ## 🏅 Achievements
 
-🥇 Merit-based Scholarships — *Government of Bangladesh*  
-🤖 Finalist — *AI/ML Hackathons & Research Challenges*  
-📊 Academic Awards for Innovation & Applied Research  
-🗣️ IELTS Band 8 — *R:8.9, L:8.5, W:7.5, S:6.5*
+🥇 **Champion** — *DIU Intra University IoT Fest 2023*  
+🤖 **Finalist** — *Business and System Innovation Challenge 2023*  
+💻 **9th Place (Individual)** — *Unlock the Algorithm Programming Contest 2024*  
+🧩 **4th Place (Team Bug_Hunter)** — *Programmer’s Proving Ground 2023*  
+👩‍💻 **Finalist** — *National Girls’ Programming Contest 2022*  
+🚀 **32nd Place (Individual)** — *Take-off Programming Contest 2022*
 
 ---
 
@@ -48,7 +51,7 @@ I aim to push the boundaries of **explainable**, **trustworthy**, and **scalable
 
 | **Category** | **Tools & Frameworks** |
 |---------------|------------------------|
-| **Languages** | Python, JavaScript/TypeScript, C/C++, Bash |
+| **Languages** | Python, C/C++, Java, HTML, CSS, JavaScript/TypeScript, PHP, MySQL, Bash |
 | **AI/ML** | LangGraph, LangChain, PyTorch, scikit-learn, TensorFlow, RAG, LLMs, OpenAI APIs |
 | **MLOps & Cloud** | Docker, FastAPI, Celery, Weaviate, FAISS, Milvus, PostgreSQL, MongoDB, AWS, GCP |
 | **Data & Geo** | Pandas, Polars, NumPy, RasterIO, ArcGIS Pro, QGIS |
@@ -70,14 +73,5 @@ I aim to push the boundaries of **explainable**, **trustworthy**, and **scalable
 📧 **Email:** [jahintasnia15@gmail.com](mailto:jahintasnia15@gmail.com)  
 💼 **LinkedIn:** [https://www.linkedin.com/in/jahin-tasnia/](#)  
 💻 **GitHub:** [github.com/jahin-tasnia](https://github.com/jahin-tasnia)  
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-Agentic-blue"/>
-  <img src="https://img.shields.io/badge/RAG-Pipelines-green"/>
-  <img src="https://img.shields.io/badge/OpenAI-LLMs-black"/>
-</p>
 
 ---
