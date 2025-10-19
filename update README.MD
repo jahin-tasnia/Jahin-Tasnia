@@ -18,9 +18,9 @@ With a strong academic background and hands-on experience across diverse domains
 
 ## 💼 Current Roles
 
-- **MLOps Engineer** @ **Deep Data Labs** &nbsp
+- **MLOps Engineer** @ **Deep Data Labs**  
   ▪️ Designing multi-agent knowledge workflows using **LangGraph**  
-  ▪️ Building reproducible **RAG pipelines** for enterprise and research applications  
+  ▪️ Building reproducible **RAG pipelines** for enterprise and research applications
 
 ---
 
