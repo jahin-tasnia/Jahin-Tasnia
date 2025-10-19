@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#6C63FF;">Jahin Tasnia</span></h1>
 
 <p>
-  💡 <b>MLOps Engineer • Competitive Programmar </b><br>
-  📍 Dhaka, Bangladesh &nbsp;|&nbsp; 
+  💡 <b>MLOps Engineer • Competitive Programmar • Software Developer</b><br>
+  📍 Dhaka, Bangladesh &nbsp;&nbsp; 
 </p>
 
 ---
