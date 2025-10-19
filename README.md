@@ -45,11 +45,11 @@ My goal is to create **explainable and trustworthy AI systems** that make a real
 
 ## 🧰 Tech Stack
 
-**Languages**  Python, C/C++, Java, HTML, CSS, JavaScript/TypeScript, PHP, MySQL, Bash 
-**AI/ML**  LangGraph, LangChain, PyTorch, scikit-learn, TensorFlow, RAG, LLMs, OpenAI APIs 
-**MLOps & Cloud**  Docker, FastAPI, Celery, Weaviate, FAISS, Milvus, PostgreSQL, MongoDB, AWS, GCP 
-**Data & Geo**  Pandas, Polars, NumPy, RasterIO, ArcGIS Pro, QGIS 
-**Tools**  Git, GitHub, VS Code, Jupyter, Tableau, LaTeX 
+-**Languages**  Python, C/C++, Java, HTML, CSS, JavaScript/TypeScript, PHP, MySQL, Bash 
+-**AI/ML**  LangGraph, LangChain, PyTorch, scikit-learn, TensorFlow, RAG, LLMs, OpenAI APIs 
+-**MLOps & Cloud**  Docker, FastAPI, Celery, Weaviate, FAISS, Milvus, PostgreSQL, MongoDB, AWS, GCP 
+-**Data & Geo**  Pandas, Polars, NumPy, RasterIO, ArcGIS Pro, QGIS 
+-**Tools**  Git, GitHub, VS Code, Jupyter, Tableau, LaTeX 
 
 ---
 
