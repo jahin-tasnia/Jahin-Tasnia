@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm <span style="color:#6C63FF;">Jahin Tasnia</span></h1>
 
-<!--
-**jahin-tasnia/Jahin-Tasnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💡 <b>MLOps Engineer • Competitive Programmar </b><br>
+  📍 Dhaka, Bangladesh &nbsp;|&nbsp; 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I’m an enthusiastic MLOps Engineer dedicated to designing agentic systems, machine learning workflows, and intelligent applications that connect cutting-edge research with practical implementation.
+My current focus areas include LangGraph, Retrieval-Augmented Generation (RAG) architectures, and LLM-driven automation, emphasizing robustness, scalability, and interpretability across every layer of deployment.
+Beyond AI systems, I have a solid foundation in **competitive programming** and **full-stack development**, which allows me to design solutions that are both **algorithmically efficient** and **production-ready**. I enjoy integrating **backend engineering**, **cloud orchestration**, and **model deployment pipelines** into cohesive, automated MLOps workflows.
+With a strong academic background and hands-on experience across diverse domains, I aim to push the boundaries of **explainable**, **trustworthy**, and **scalable** AI — one system at a time.
+
+---
+
+## 💼 Current Roles
+
+- **MLOps Engineer** @ **Deep Data Labs**  
+  ▪️ Designing multi-agent knowledge workflows using **LangGraph**  
+  ▪️ Building reproducible **RAG pipelines** for enterprise and research applications
+
+---
+
+## 🎓 Academic Background
+
+🎓 **B.Sc. in Computer Science & Engineering** — *Ongoing*  
+🏫 *[Daffodil International University]*  
+📅 *January 2022 – December 2025 
+
+---
+
+## 🏅 Achievements
+
+🥇 **Champion** — *DIU Intra University IoT Fest 2023*  
+🤖 **Finalist** — *Business and System Innovation Challenge 2023*  
+💻 **9th Place (Individual)** — *Unlock the Algorithm Programming Contest 2024*  
+🧩 **4th Place (Team Bug_Hunter)** — *Programmer’s Proving Ground 2023*  
+👩‍💻 **Finalist** — *National Girls’ Programming Contest 2022*  
+🚀 **32nd Place (Individual)** — *Take-off Programming Contest 2022*
+
+---
+
+## 🧰 Tech Stack
+
+| **Category** | **Tools & Frameworks** |
+|---------------|------------------------|
+| **Languages** | Python, C/C++, Java, HTML, CSS, JavaScript/TypeScript, PHP, MySQL, Bash |
+| **AI/ML** | LangGraph, LangChain, PyTorch, scikit-learn, TensorFlow, RAG, LLMs, OpenAI APIs |
+| **MLOps & Cloud** | Docker, FastAPI, Celery, Weaviate, FAISS, Milvus, PostgreSQL, MongoDB, AWS, GCP |
+| **Data & Geo** | Pandas, Polars, NumPy, RasterIO, ArcGIS Pro, QGIS |
+| **Tools** | Git, GitHub, VS Code, Jupyter, Tableau, LaTeX |
+
+---
+
+## 🤝 Open Source Contribution
+
+💬 Always open to collaborations on:  
+- 🧩 Agentic frameworks and intelligent retrieval systems  
+- 🧠 Evaluation and interpretability in RAG pipelines  
+- 🌍 ML for geospatial, public health, and environmental research  
+
+---
+
+## 📫 Let’s Connect!
+
+📧 **Email:** [jahintasnia15@gmail.com](mailto:jahintasnia15@gmail.com)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/jahin-tasnia/](#)  
+💻 **GitHub:** [github.com/jahin-tasnia](https://github.com/jahin-tasnia)  
+
+---
