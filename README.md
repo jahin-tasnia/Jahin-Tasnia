@@ -18,7 +18,7 @@ With a strong academic background and hands-on experience across diverse domains
 
 ## 💼 Current Roles
 
-- **MLOps Engineer** @ **Deep Data Labs**  
+- **MLOps Engineer Intern** @ **Deep Data Labs**  
   ▪️ Designing multi-agent knowledge workflows using **LangGraph**  
   ▪️ Building reproducible **RAG pipelines** for enterprise and research applications
 
@@ -45,13 +45,11 @@ With a strong academic background and hands-on experience across diverse domains
 
 ## 🧰 Tech Stack
 
-| **Category** | **Tools & Frameworks** |
-|---------------|------------------------|
-| **Languages** | Python, C/C++, Java, HTML, CSS, JavaScript/TypeScript, PHP, MySQL, Bash |
-| **AI/ML** | LangGraph, LangChain, PyTorch, scikit-learn, TensorFlow, RAG, LLMs, OpenAI APIs |
-| **MLOps & Cloud** | Docker, FastAPI, Celery, Weaviate, FAISS, Milvus, PostgreSQL, MongoDB, AWS, GCP |
-| **Data & Geo** | Pandas, Polars, NumPy, RasterIO, ArcGIS Pro, QGIS |
-| **Tools** | Git, GitHub, VS Code, Jupyter, Tableau, LaTeX |
+**Languages**  Python, C/C++, Java, HTML, CSS, JavaScript/TypeScript, PHP, MySQL, Bash 
+**AI/ML**  LangGraph, LangChain, PyTorch, scikit-learn, TensorFlow, RAG, LLMs, OpenAI APIs 
+**MLOps & Cloud**  Docker, FastAPI, Celery, Weaviate, FAISS, Milvus, PostgreSQL, MongoDB, AWS, GCP 
+**Data & Geo**  Pandas, Polars, NumPy, RasterIO, ArcGIS Pro, QGIS 
+**Tools**  Git, GitHub, VS Code, Jupyter, Tableau, LaTeX 
 
 ---
 
@@ -68,6 +66,6 @@ With a strong academic background and hands-on experience across diverse domains
 
 📧 **Email:** [jahintasnia15@gmail.com](mailto:jahintasnia15@gmail.com)  
 💼 **LinkedIn:** [https://www.linkedin.com/in/jahin-tasnia/](#)  
-💻 **GitHub:** [github.com/jahin-tasnia](https://github.com/jahin-tasnia)  
+💻 **GitHub:** [https://github.com/jahin-tasnia)  
 
 ---
