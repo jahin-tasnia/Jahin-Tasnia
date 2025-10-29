@@ -18,7 +18,7 @@ My goal is to create **explainable and trustworthy AI systems** that make a real
 
 ## 💼 Current Roles
 
-- **MLOps Engineer Intern** @ **Deep Data Labs**  
+- **MLOps Engineer** @ **Deep Data Labs**  
   ▪️ Designing multi-agent knowledge workflows using **LangGraph**  
   ▪️ Building reproducible **RAG pipelines** for enterprise and research applications
 
@@ -27,7 +27,7 @@ My goal is to create **explainable and trustworthy AI systems** that make a real
 ## 🎓 Academic Background
 
 🎓 **B.Sc. in Computer Science & Engineering** — *Ongoing*  
-🏫 *[Daffodil International University]*  
+🏫 *Daffodil International University*  
 📅 January 2022 – December 2025 
 
 ---
